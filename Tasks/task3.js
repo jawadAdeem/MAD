@@ -14,6 +14,3 @@ const sum=num_arr.filter((x)=>{return x%2==0}).reduce( (previousValue, currentVa
 initialValue)
 console.log(sum)
 
-even=function(y){
-    return y%2==0
-}
